@@ -52,9 +52,9 @@ Olá! Sou estudante de Tecnologia da Informação na **UFRN** e atuo como estagi
 
 <div align="center">
   <a href="https://github.com/esdrasfelipe07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=esdrasfelipe07&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/esdrasfelipe07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=esdrasfelipe07&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais usadas" />
   </a>
 </div>
