@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=33CAE6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Esdras+Felipe!+%F0%9F%91%8B;Desenvolvedor+de+Software" alt="Typing SVG" />
 
-  <p><strong>Desenvolvedor de Software</strong> • Brasil</p>
+  <p><strong>Estudante de TI na UFRN • Estagiário no DETRAN - RN</strong><br>Natal-RN, Brasil</p>
 
   <!-- REDES SOCIAIS / CONTATOS -->
   <a href="https://linkedin.com/in/esdrasfelipe" target="_blank">
@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 Sobre Mim
 
-Sou um entusiasta da tecnologia e desenvolvedor focado em criar soluções digitais eficientes, modernas e escaláveis.
+Olá! Sou estudante de Tecnologia da Informação na **UFRN** e atuo como estagiário no **DETRAN - RN**. Gosto de desenvolver soluções práticas e explorar dados, desenvolvimento de software e novas tecnologias.
 
 ---
 
