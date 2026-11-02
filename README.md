@@ -25,7 +25,7 @@ Olá! Sou estudante de Tecnologia da Informação na **UFRN** e atuo como estagi
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<div align="center">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
